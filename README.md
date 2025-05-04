@@ -49,7 +49,6 @@ I’m diving into the world of web development with a strong focus on building r
 ---
 
 ### 🎮 Fun Facts
-- I am a dancer too.
 - I’ve also ventured into entrepreneurial ideas, like a Home Appliances Startup.
 <!---
 Harsh-1905/Harsh-1905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
